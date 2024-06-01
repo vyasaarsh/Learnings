@@ -14,4 +14,7 @@ Examples: Google Search, AI Assistants (Siri), Movie Recommendations, Spam Email
 Machine Learning is the sub-field of Artifical Intelligence.
 
 Types of Machine Learning 
-- Supervised Learning
+* Supervised Learning (used in most of real world applications)
+* Unsupervised Learning
+* Recommender Systems / Semi-suprvised Learning
+* Reinforcement Learning
