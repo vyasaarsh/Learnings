@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-# Supervised Machine Learning : Regression and Classification
+* Supervised Machine Learning : Regression and Classification
 
 ## General
 What is machine learning ? 
