@@ -27,3 +27,6 @@ Supervised Learning are alogorithms that learn : X ---> Y
 Examples for the X ---> Y algorithms include : 
 
 ![SL2](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL2.png)
+
+* Housing Prediction is particular type of supervised learning called the Regression
+* Regression: Predicting a number from infinetly many particular outputs
