@@ -18,3 +18,6 @@ Types of Machine Learning
 * Unsupervised Learning
 * Recommender Systems / Semi-suprvised Learning
 * Reinforcement Learning
+
+## Supervised Learning 
+Supervised Learning are alogorithms that learn : x ----> Y
