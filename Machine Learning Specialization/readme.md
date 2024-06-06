@@ -20,4 +20,6 @@ Types of Machine Learning
 * Reinforcement Learning
 
 ## Supervised Learning 
-Supervised Learning are alogorithms that learn : x ----> Y
+Supervised Learning are alogorithms that learn :
+
+Machine Learning Specialization/Images/SL1.png
