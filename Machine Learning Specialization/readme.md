@@ -25,3 +25,5 @@ Supervised Learning are alogorithms that learn : X ---> Y
 ![SL1](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL1.png)
 
 Examples for the X ---> Y algorithms include : 
+
+![SL2](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL2.png)
