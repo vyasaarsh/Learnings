@@ -23,3 +23,5 @@ Types of Machine Learning
 Supervised Learning are alogorithms that learn :
 
 Machine Learning Specialization/Images/SL1.png
+
+![SL1](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL1.png)
