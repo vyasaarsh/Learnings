@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-## Supervised Machine Learning : Regression and Classification
+## (1) Supervised Machine Learning : Regression and Classification
 * Intoduction to Machine Learning
 * Regression with multiple input variables
 * Classification
