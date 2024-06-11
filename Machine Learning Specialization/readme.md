@@ -38,3 +38,5 @@ Classification
 * Breast Cancer Detection is particular type of supervised learning called the Classification
 * Classification: Predicting categories (also can be numbers but with small possible outputs such if (0,1,2) but not (0.5,1.7))
 * Exmamples include To Predict if it is a picture of a dog or cat (non-numerical) 
+
+## Unsupervised Learning
