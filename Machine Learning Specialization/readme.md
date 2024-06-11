@@ -40,9 +40,18 @@ Classification
 * Exmamples include To Predict if it is a picture of a dog or cat (non-numerical) 
 
 ## Unsupervised Learning
-Data without any output labels (Y)
+Data only comes with input (X) but not any output labels (Y). The Algorithm has to find structure in the data
 
 Clustering
 
-* Grouping individuals into categories
+* Grouping similar data points (individuals) together (categories)
 * Examples include Given just patients age & tumor size and not if beningn or malignant, DNA Microarray, Grouping Customers
+
+Anomaly Detection
+
+* Find unusual data points
+* Examples include Fraud Detection (unusual transaction) in the financial system
+
+Dimensionality Reduction 
+
+* A big-data set and magically compress it to a much smaller data-set with losing as little information as possible. Compress data using fewer numbers 
