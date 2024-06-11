@@ -40,3 +40,9 @@ Classification
 * Exmamples include To Predict if it is a picture of a dog or cat (non-numerical) 
 
 ## Unsupervised Learning
+Data without any output labels (Y)
+
+Clustering
+
+* Grouping individuals into categories
+* Examples include Given just patients age & tumor size and not if beningn or malignant, DNA Microarray, Grouping Customers
