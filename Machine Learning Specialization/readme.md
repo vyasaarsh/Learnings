@@ -62,7 +62,7 @@ Supervised Learning Model
 
 * Regression Model: Any supervised learning model that predicts NUMBERS (such as 200000,1.5,-33.2) is addressing what's called a Regression Model
 
-**Linear Regression Model
+Linear Regression Model
 
 Example: Housing Price Prediction
 
