@@ -68,4 +68,14 @@ Example: Housing Price Prediction
 
 ![SL3](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL3.png)
 
+Training Set: Dataset used to train models is called Training Set
+
+Terminology
+
+x = input variable / feature / input feature
+y = output vairanle / target variable
+m = total number of training examples (total number of rows in the data set)
+(x,y) = single training example
+(x^(i), y^(i)) = i^th training example (i^th row)
+
 * Classification Model: Any supervised learning model that predicts CATEGORIES or DISCRETE CATEGORIES (such as predicting if a picture is a cat or dog, if a given medical record it has to predict if patient has a particular disease) is addressing what's called a Classification Model
