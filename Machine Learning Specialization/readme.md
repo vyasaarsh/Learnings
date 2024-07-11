@@ -58,6 +58,8 @@ Dimensionality Reduction
 
 ## Regression Model
 
-Linear Regressoin Model
+Linear Regression Model
 
 Example: Housing Price Prediction
+
+![SL3](https://github.com/vyasaarsh/Learnings/blob/main/Machine%20Learning%20Specialization/Images/SL3.png)
