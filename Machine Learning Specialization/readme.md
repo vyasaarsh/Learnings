@@ -55,3 +55,9 @@ Anomaly Detection
 Dimensionality Reduction 
 
 * A big-data set and magically compress it to a much smaller data-set with losing as little information as possible. Compress data using fewer numbers 
+
+## Regression Model
+
+Linear Regressoin Model
+
+Example: Housing Price Prediction
